@@ -24,7 +24,7 @@ Since we developed this game for a French jury, the comments and the documentati
 ## Outils utilisés
 * Le framework coeur du jeu est [Libgdx](https://libgdx.badlogicgames.com/), c'est un bibliothèque Java
 fournissant des outils de bases à la création d'un jeu (rendu, sprite, gestion des inputs, etc ...)
-* [Box2D](http://box2d.org/) est un moteur physiqu epur jeux videos qui permet la gestion des mouvements et des collisions
+* [Box2D](http://box2d.org/) est un moteur physique pur jeux videos qui permet la gestion des mouvements et des collisions
 * [Gdx-AI](https://github.com/libgdx/gdx-ai/wiki) est un extension qui fournit de nombreuses outils pour l'intelligence artificielle (behavior trees, A* pathfinding)
 * [Kryonet](https://github.com/EsotericSoftware/kryonet) est une bibliothèque Java fournissant les outils nécessaires à la partie réseau du projet. 
 
