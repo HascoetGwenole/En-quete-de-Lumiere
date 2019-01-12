@@ -27,6 +27,7 @@ To launch the application:
 
 
 2.	Import the project:
+
   a)	In the File tab, select Import
 
   b)	In the Import window, chose Existing Gradle Project in the Gradle repository
