@@ -28,26 +28,26 @@ To launch the application:
 
 2.	Import the project:
 
-  a)	In the File tab, select Import
+  2.1.	In the File tab, select Import
 
-  b)	In the Import window, chose Existing Gradle Project in the Gradle repository
+  2.2.	In the Import window, chose Existing Gradle Project in the Gradle repository
 
-  c)	Browse the root of the game named ..\PRO3600-18-CON-5\ProjetsJava\Jeu before finishing the import
+  2.3.	Browse the root of the game named ..\PRO3600-18-CON-5\ProjetsJava\Jeu before finishing the import
 
 3.	If some errors are detected by Eclipse in the code, it is because you must change the project compliance and JRE to 1.8. To correct all errors, just go in the class SoundManager.java (Game-core-> src->enquetedelumiere.tools->SoudManager.java), and click on the correction proposed by Eclispe on line 44 (Change project compliance and JRE to 1.8)
 
 4.	Then you must configure the launcher of the application:
 
-  a.	In the Run tab, choose Run Configurations
+  4.1.	In the Run tab, choose Run Configurations
 
-  b.	Right click on Java application, choose new
+  4.2.	Right click on Java application, choose new
 
-  c.	In the Main section, Under Project browse the repository called Game-desktop
+  4.3.	In the Main section, Under Project browse the repository called Game-desktop
 
-  d.	Still in the Main section, under Main class, 
+  4.4.	Still in the Main section, under Main class, 
 search DesktopLauncher – enquetedelumiere.desktop
 
-  e.	In the section Arguments, under working directory, choose other and write your local path to the repository named assets
+  4.5.	In the section Arguments, under working directory, choose other and write your local path to the repository named assets
 (.. \PRO3600-18-CON-5\ProjetsJava\Jeu\core\assets)
 
 
