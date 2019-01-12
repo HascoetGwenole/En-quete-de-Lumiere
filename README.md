@@ -21,7 +21,6 @@ Since we developed this game for a French jury, the comments and the documentati
 ## How to launch the application?
 
 
-To launch the application:
 
 1.	Open Eclipse (it was tested with Eclipse Oxygen 2.0)
 
