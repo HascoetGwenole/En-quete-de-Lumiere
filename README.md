@@ -27,9 +27,9 @@ Since we developed this game for a French jury, the comments and the documentati
 
 2.	Import the project:
 
-  1.	In the File tab, select Import
-  2.	In the Import window, chose Existing Gradle Project in the Gradle repository
-  3.	Browse the root of the game named ..\PRO3600-18-CON-5\ProjetsJava\Jeu before finishing the import
+  i.	In the File tab, select Import
+  ii.	In the Import window, chose Existing Gradle Project in the Gradle repository
+  iii.	Browse the root of the game named ..\PRO3600-18-CON-5\ProjetsJava\Jeu before finishing the import
 
 3.	If some errors are detected by Eclipse in the code, it is because you must change the project compliance and JRE to 1.8. To correct all errors, just go in the class SoundManager.java (Game-core-> src->enquetedelumiere.tools->SoudManager.java), and click on the correction proposed by Eclispe on line 44 (Change project compliance and JRE to 1.8)
 
