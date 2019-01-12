@@ -27,18 +27,18 @@ Since we developed this game for a French jury, the comments and the documentati
 
 2.	Import the project:
 
-   *	In the File tab, select Import
-   *	In the Import window, chose Existing Gradle Project in the Gradle repository
-   *	Browse the root of the game named ..\PRO3600-18-CON-5\ProjetsJava\Jeu before finishing the import
+    *	In the File tab, select Import
+    *	In the Import window, chose Existing Gradle Project in the Gradle repository
+    *	Browse the root of the game named ..\PRO3600-18-CON-5\ProjetsJava\Jeu before finishing the import
 
 3.	If some errors are detected by Eclipse in the code, it is because you must change the project compliance and JRE to 1.8. To correct all errors, just go in the class SoundManager.java (Game-core-> src->enquetedelumiere.tools->SoudManager.java), and click on the correction proposed by Eclispe on line 44 (Change project compliance and JRE to 1.8)
 
 4.	Then you must configure the launcher of the application:
-   * In the Run tab, choose Run Configurations
-   *	Right click on Java application, choose new
-   *	In the Main section, Under Project browse the repository called Game-desktop
-   * Still in the Main section, under Main class, search DesktopLauncher – enquetedelumiere.desktop
-   * In the section Arguments, under working directory, choose other and write your local path to the repository named assets
+    * In the Run tab, choose Run Configurations
+    *	Right click on Java application, choose new
+    *	In the Main section, Under Project browse the repository called Game-desktop
+    * Still in the Main section, under Main class, search DesktopLauncher – enquetedelumiere.desktop
+    * In the section Arguments, under working directory, choose other and write your local path to the repository named assets
     (.. \PRO3600-18-CON-5\ProjetsJava\Jeu\core\assets)
 
 
