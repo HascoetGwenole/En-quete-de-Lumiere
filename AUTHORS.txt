@@ -1,0 +1,7 @@
+Authors in alphabetical order:
+
+Antoine Marinier <antoine.marinier@telecom-sudparis.eu>
+Gwénolé Hascoët <gwenole.hascoet@telecom-sudparis.eu>
+Lucas Maillet <lucas_maillet@telecom-sudparis.eu>
+Quentin Tran <quentin.tran@telecom-sudparis.eu>
+
