@@ -4,7 +4,11 @@
  Copyright (C) 2007 Free Software Foundation, Inc. <https://fsf.org/>
  Everyone is permitted to copy and distribute verbatim copies
  of this license document, but changing it is not allowed.
-
+Note:
+  Part of the code written in some classes of the directory 
+  ../ProjetsJava/Jeu/core/src/enquetedelumiere/pathfinding is inspired of the 
+  tutorial available on Youtube at https://www.youtube.com/watch?v=wu3vzR9k3QA.
+  The Git link of this project is https://github.com/LetsMakeAnIndieGame/PhysicsShmup.
 
   This version of the GNU Lesser General Public License incorporates
 the terms and conditions of version 3 of the GNU General Public
