@@ -1,4 +1,4 @@
-Authors in alphabetical order :
+Authors in alphabetical order:
 
 Antoine Marinier <antoine.marinier@telecom-sudparis.eu>
 Gwénolé Hascoët <gwenole.hascoet@telecom-sudparis.eu>
